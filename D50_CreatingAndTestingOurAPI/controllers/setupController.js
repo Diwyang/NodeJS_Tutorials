@@ -7,19 +7,19 @@ module.exports = function(app) {
        // seed database
        var starterTodos = [
            {
-               username: 'test',
+               username: 'djain20',
                todo: 'Buy milk',
                isDone: false,
                hasAttachment: false
            },
            {
-               username: 'test',
+               username: 'djain20',
                todo: 'Feed dog',
                isDone: false,
                hasAttachment: false
            },
            {
-               username: 'test',
+               username: 'djain20',
                todo: 'Learn Node',
                isDone: false,
                hasAttachment: false
