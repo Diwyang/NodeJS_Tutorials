@@ -53,6 +53,7 @@ router.post("/register", usersController.register);
  *              description: Bad request
  */
 
+
 router.post("/login", usersController.login);
 /**
  * @swagger
@@ -89,6 +90,7 @@ router.post("/login", usersController.login);
  *          '400':
  *              description: Bad request
  */
+
 
 router.post("/get-all-users", usersController.getAllUsers);
 /**
